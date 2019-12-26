@@ -9,5 +9,6 @@ public class Main {
         System.out.println("mmas");
         System.out.println("dev");
         System.out.println("dev");
+        System.out.println("哈哈");
     }
 }
