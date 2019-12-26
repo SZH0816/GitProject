@@ -11,5 +11,6 @@ public class Main {
         System.out.println("dev");
         System.out.println("哈哈");
         System.out.println("hehe");
+        System.out.println("a");
     }
 }
